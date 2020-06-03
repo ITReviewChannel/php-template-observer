@@ -1,6 +1,6 @@
 <?php
 
-namespace ITReview;
+namespace ITReviewChannel;
 
 /**
  * Интерфейс наблюдаемого объекта.
